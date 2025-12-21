@@ -11,6 +11,6 @@ spec:
     run: springapp
   ports:
     - name: http
-      port: 8080
+      port: 9999
       targetPort: 8080
       protocol: TCP
