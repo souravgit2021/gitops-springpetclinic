@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: springapp
-        image: docsourav1992/spring_pet_clinic:1.0.0-34
+        image: docsourav1992/spring_pet_clinic:1.0.0-35
         ports:
           - containerPort: 8080
         imagePullPolicy: IfNotPresent
